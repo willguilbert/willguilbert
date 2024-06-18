@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @willguilbert
+- 👋 Hi, I’m William Guilbert!
 - 👀 I’m interested in Web Dev!
 - 🌱 I’m currently learning React, C#, .NET and document databases like mongoDB!
 - 💞️ I’m looking to collaborate on web projects
