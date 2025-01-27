@@ -4,5 +4,5 @@
 - 📫 How to reach me : join me on https://www.linkedin.com/in/william-guilbert-441546286/
 - ⚡ Fun fact: I always wanted to work in the computer field, but I actually only recently started my journey !
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=willguilbert)](https://github.com/anuraghazra/github-readme-stats) 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wguilbert&show_icons=true&theme=tokyonight)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=willguilbert&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
