@@ -5,4 +5,4 @@
 - ⚡ Fun fact: I always wanted to work in the computer field, but I actually only recently started my journey !
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=willguilbert&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=willguilbert&layout=pie)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=willguilbert&layout=compact)
