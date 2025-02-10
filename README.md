@@ -1,4 +1,4 @@
-  ![beau](https://github.com/willguilbert/willguilbert/blob/main/IMG_7044.jpeg)
+  ![beau](https://github.com/willguilbert/willguilbert/blob/main/city1.jpg)
 
 - 👋 Hi, I’m William Guilbert!
 - 👀 I’m interested in Web Dev & AI!
