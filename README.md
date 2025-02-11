@@ -16,6 +16,7 @@
 <h3 align="left">👋 Hi, I’m William Guilbert!<br>🌱 I’m currently learning Spring & .NET!<br>👨‍💼 Full Stack Dev Intern @ Coveo | Summer 2025</h3>
 
 ###
+<hr>
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
