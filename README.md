@@ -2,6 +2,7 @@
   <img src="https://github.com/willguilbert/willguilbert/blob/main/IMG_6211.jpeg"  />
 </div>
 
+<hr>
 ###
 
 <div align="left">
@@ -16,7 +17,7 @@
 <h3 align="left">👋 Hi, I’m William Guilbert!<br>🌱 I’m currently learning Spring & .NET!<br>👨‍💼 Full Stack Dev Intern @ Coveo | Summer 2025</h3>
 
 ###
-<hr>
+
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
@@ -73,6 +74,7 @@
 </div>
 
 ###
+<hr>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=willguilbert&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=solarized-light&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
