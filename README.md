@@ -14,7 +14,7 @@
 
 ###
 
-<h3 align="left">👋 Hi, I’m William Guilbert!<br>🌱 I’m currently learning Spring & .NET!<br>👨‍💼 Full Stack Dev Intern @ Coveo | Summer 2025</h3>
+<h3 align="left">👋 Hi, I’m William Guilbert!<br>👨‍💼 Full Stack Dev @ Coveo </h3>
 
 ###
 
